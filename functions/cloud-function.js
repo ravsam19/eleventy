@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ multiple-files-commit-updated })
+    .json({ deploymentIdentifier: multiple-files-commit-working })
 }
