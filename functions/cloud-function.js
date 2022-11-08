@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: multiple-files-commit-working })
+    .json({ deploymentIdentifier: random-11 })
 }
