@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: contentfly-management-background-jobs })
+    .json({ deploymentIdentifier: contentfly-management-background-jobs-a })
 }
