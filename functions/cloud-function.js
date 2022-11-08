@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: contentfly-id })
+    .json({ deploymentIdentifier: random-working-commit })
 }
