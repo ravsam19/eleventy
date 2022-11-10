@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: random-working-commit-l6 })
+    .json({ deploymentIdentifier: "nextjs-commit-working-31" })
 }
