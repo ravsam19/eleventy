@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: "somerandom:commit-random" })
+    .json({ deploymentIdentifier: "somerandom:commit-random-id" })
 }
