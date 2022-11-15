@@ -5,5 +5,5 @@ export default function handler(_, res) {
 
   res
     .status(200)
-    .json({ deploymentIdentifier: "contentfly-e2e-tests:b985b85:run-counter-1" })
+    .json({ deploymentIdentifier: "contentfly-e2e-tests:05dd28a:run-counter-1" })
 }
